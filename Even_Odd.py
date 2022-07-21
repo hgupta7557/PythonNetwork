@@ -5,4 +5,5 @@ if num==0:
 elif num%2==0:
     print(num, "Entered number is Even ")
 else:
-    print(num, "Entered number is odd")
+    
+    print(num, "Entered number is odd eske alawa aur kuchh nahi")
